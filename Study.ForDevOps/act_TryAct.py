@@ -1,0 +1,11 @@
+# MISSION: The complete set of examples and source code for ''Python 1100 - Python
+# for DevOps.''
+# STATUS: Public Release
+# VERSION: 0.0.0
+# NOTES: Code: https://github.com/TotalPythoneering/Pythoneering-DevOps-For-Beginners
+# DATE: 2022-02-16 19:50:51
+# FILE: act_TryAct.py
+# AUTHOR: Randall Nagy
+# See act_TriAct.py
+#
+
