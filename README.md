@@ -6,6 +6,10 @@
 
 ### Python 1100: Python for DevOps
 
+Evolving on POSIX-inspired operating systems, even today Python supports DevOps platforms far better than other languages. From government, military, and networking professionals, it’s no surprise that Python has become the go-to programming language for Dev, Ops, and Sec.
+
+The first step in our training for role-based opportunities, [Python 1100: Python for DevOps](https://www.manning.com/livevideo/python-1100-python-for-devops)
+
 # Sub-Title
 
 Pythoneering Weapons & Tactics
